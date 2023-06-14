@@ -111,7 +111,9 @@ function Login() {
                     class="no-underline hover:underline text-blue-dark text-xs"
                     href="{{ route('password.request') }}"
                   >
-                    Forgot Your Password?
+                    Forgot Your Password? use existing dummy account
+                    Email: admin@mail.com
+                    Password: 123456
                   </a>
                 </div>
               </div>
