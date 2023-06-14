@@ -1,4 +1,4 @@
-const ORIGIN = "http://localhost:3001";
+const ORIGIN = "https://glints-production.up.railway.app";
 
 export function fetchJobs(filter) {
   return async function (dispatch, getState) {
