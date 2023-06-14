@@ -1,4 +1,4 @@
-const ORIGIN = "https://api.kandaka.my.id"
+const ORIGIN = "https://glints-production.up.railway.app"
 
 export function fetchJobs(filter) {
     return async function (dispatch, getState) {
